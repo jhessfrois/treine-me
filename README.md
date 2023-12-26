@@ -2,7 +2,7 @@
 
 ![preview](/.github/preview.png)
 
-> Segundo desafio do curso Explorer da Rocketseat. Feito com HTML e CSS.
+> 2º desafio de mais uma landing page simples do curso Explorer da Rocketseat. Feito com HTML e CSS.
 
 ## Github Pages
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/treine-me/)
