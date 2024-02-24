@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido uma landing page simples do curso Explorer da Rocketseat.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/decoracao-natalina/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/treine-me/)
 
 ## **🤍 Contato**
 
