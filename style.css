@@ -9,7 +9,7 @@ body {
 .page {
   width: 1000px;
   margin: 0 auto;
-  padding-top: 65px;
+  padding-top: 55px;
 }
 
 .nav {
@@ -99,7 +99,7 @@ footer {
   font-size: 14px;
   line-height: 28px;
   text-align: center;
-  margin-top: 180px;
+  margin-top: 185px;
 }
 
 footer a {
